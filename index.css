@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+.button-container {
+  width: fit-content;
+  margin: 0 auto;
+}
+.btn {
+  width: 100px;
+  height: 100px;
+}
